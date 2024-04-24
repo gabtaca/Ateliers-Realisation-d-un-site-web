@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Monoton';
+    src: url(assets/Fonts/monoton-regular-webfont.woff2) format('woff2'),
+        url(assets/Fonts/monoton-regular-webfont.woff) format('woff'); 
+        font-style: normal;
+}
+
+body{
+    font-family:'Monoton'
+
+}
